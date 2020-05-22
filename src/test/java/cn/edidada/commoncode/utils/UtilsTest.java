@@ -4,7 +4,6 @@ import org.junit.Test;
 
 public class UtilsTest {
 
-
     @Test
     public void testAdd() {
         String[] nameArr = StringUtils.tokenizeToStringArray("fdasfas,555555;6788 9999", ",; ");
